@@ -1,0 +1,4 @@
+Pg. 23 
+example1
+gcc -S -mno-accumulate-outgoing-args example1.c
+src: https://askubuntu.com/questions/16728/hide-current-working-directory-in-termina

