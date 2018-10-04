@@ -1,0 +1,73 @@
+[*] '/home/amrut/Desktop/2018_S2/COMP6447/wargames4/6447-challenges-3/babys_first_3'
+    Arch:     i386-32-little
+    RELRO:    Partial RELRO
+    Stack:    No canary found
+    NX:       NX enabled
+    PIE:      No PIE (0x8048000)
+[x] Starting local process '/home/amrut/Desktop/2018_S2/COMP6447/wargames4/6447-challenges-3/babys_first_3'
+[+] Starting local process '/home/amrut/Desktop/2018_S2/COMP6447/wargames4/6447-challenges-3/babys_first_3': pid 14465
+Welcome to the super secure fish vault 3.0
+Pick a menu option below!
+1. Create a fish
+2. Edit a fish
+3. View a fish
+4. Delete a fish
+5. exit
+
+
+> which fish would you like to add? (0 - 10)
+
+> please enter a size(cm):
+
+> please enter a weight(kg):
+
+> please enter a name:
+> Welcome to the super secure fish vault 3.0
+Pick a menu option below!
+1. Create a fish
+2. Edit a fish
+3. View a fish
+4. Delete a fish
+5. exit
+
+
+> which fish would you like to delete? (0 - 10)
+> fish gone
+Welcome to the super secure fish vault 3.0
+Pick a menu option below!
+1. Create a fish
+2. Edit a fish
+3. View a fish
+4. Delete a fish
+5. exit
+
+
+> which fish would you like to add? (0 - 10)
+
+> please enter a size(cm):
+
+> please enter a weight(kg):
+
+> please enter a name:
+
+> Welcome to the super secure fish vault 3.0
+Pick a menu option below!
+1. Create a fish
+2. Edit a fish
+3. View a fish
+4. Delete a fish
+5. exit
+
+
+> which fish would you like to view? (0 - 10)
+
+[*] Switching to interactive mode
+> aaaaaaaaaaaaaaaa 1 1Welcome to the super secure fish vault 3.0
+Pick a menu option below!
+1. Create a fish
+2. Edit a fish
+3. View a fish
+4. Delete a fish
+5. exit
+> [*] Interrupted
+[*] Stopped process '/home/amrut/Desktop/2018_S2/COMP6447/wargames4/6447-challenges-3/babys_first_3' (pid 14465)
